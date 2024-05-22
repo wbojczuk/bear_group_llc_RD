@@ -33,6 +33,5 @@ interface serviceType{
     icon: any,
     title: string,
     description: string,
-    backgroundImageUrl: string,
     url?: string
 }

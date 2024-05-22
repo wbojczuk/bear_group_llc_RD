@@ -1,53 +1,41 @@
 const reviewData: reviewType[] = [
     {
-        name: "Johnny Appleseed",
+        name: "Bethany W.",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ab quas unde laudantium veniam itaque vel nam aspernatur ipsa? Cum iusto voluptates itaque assumenda illum molestiae pariatur quos sit hic.
-        
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam incidunt molestiae delectus rerum beatae, maiores dolor.`
+        desc: `Highly recommend Bear Group & Mike! Always helpful and explains everything. Goes above and beyond. Thanks Mike and Bear Group`
     },
     {
-        name: "Johnny Appleseed",
+        name: "Cory T.",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ab quas unde laudantium veniam itaque vel nam aspernatur ipsa? Cum iusto voluptates itaque assumenda illum molestiae pariatur quos sit hic.
-        
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam incidunt molestiae delectus rerum beatae, maiores dolor.`
+        desc: `Highly recommend Bear Group! Mike went above and beyond to help us. Informative & very friendly. We are thankful for Bear Group and Mike! Definitely the place to go for all your mosquito and tick needs!`
     },
     {
-        name: "Johnny Appleseed",
+        name: "Christopher J.",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ab quas unde laudantium veniam itaque vel nam aspernatur ipsa? Cum iusto voluptates itaque assumenda illum molestiae pariatur quos sit hic.
-        
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam incidunt molestiae delectus rerum beatae, maiores dolor.`
+        desc: `Professionalism, Punctuality, Responsiveness
+        It was my first time using Bear Group. They were extremely responsive and communicated with me, especially with me being remote from the property. Bethe in the office walked me through there services. Then Mike and his crew came in and did a great job. They are a perfect team.`
     },
     {
-        name: "Johnny Appleseed",
+        name: "Brian R.",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam incidunt molestiae delectus rerum beatae, maiores dolor.`
+        desc: `Professionalism, Quality. Bear Group did an excellent job, and I definitely recommend them to anyone. I am amazed how well they kept my summer cottages clean and the lawns maintained. I received so many compliments on how clean the cottages were and how the yard was well maintained. We will continue to use them. `
     },
     {
-        name: "Johnny Appleseed",
+        name: "Marilyn C.",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ab quas unde laudantium veniam itaque vel nam aspernatur ipsa?
-        
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam incidunt molestiae delectus rerum beatae, maiores dolor.
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam incidunt molestiae delectus rerum beatae, maiores dolor
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam incidunt molestiae delectus rerum beatae, maiores dolor`
+        desc: `Professional, reliable, responsible and knowledgeable! I can’t list enough accolades about this company! I highly recommend`
     },
     {
-        name: "Johnny Appleseed",
+        name: "Christopher J.",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ab quas unde laudantium veniam itaque vel nam aspernatur ipsa? Cum iusto voluptates itaque assumenda illum molestiae pariatur quos sit hic.
-        
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam incidunt molestiae delectus rerum beatae, maiores dolor.`
+        desc: `Professionalism, Punctuality, Responsiveness
+        It was my first time using Bear Group. They were extremely responsive and communicated with me, especially with me being remote from the property. Bethe in the office walked me through there services. Then Mike and his crew came in and did a great job. They are a perfect team.`
     },
 ]
 
