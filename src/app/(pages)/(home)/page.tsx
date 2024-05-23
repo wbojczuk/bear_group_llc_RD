@@ -14,7 +14,7 @@ export default function Home() {
   const circleSRC = "/img/circle.png"
 
   const ribbonContent = <>
-  <span>Pest Control</span>
+  <span>Insect Control</span>
   <img src={circleSRC} aria-hidden />
   <span>Seasonal House Cleaning</span>
   <img src={circleSRC} aria-hidden />
