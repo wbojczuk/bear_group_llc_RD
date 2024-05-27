@@ -1,4 +1,4 @@
-#estimateForm{
+#estimateForm1{
     position: relative;
     left: -0.5vw;
     display: inline-block;
@@ -12,14 +12,14 @@
     /* box-shadow: 0px 4px 8px rgba(0,0,0,0.5); */
 }
 
-#estimateFormTitle{
+#estimateFormTitle1{
     font-size: 2.2rem;
     font-family: var(--secondary-font);
     background-color: var(--primary-color);
     color: var(--primary-text-color);
     text-align: center;
     line-height: 120%;
-    font-weight: 800;
+    font-weight: 600;
     padding: 1vw 0 2vw 0;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -28,25 +28,25 @@
 
 }
 
-.input-wrapper{
+.input-wrapper1{
     position: relative;
     margin: 1.5vw 0.5vw;
 }
-.input-wrapper:has(.half-input){
+.input-wrapper1:has(.half-input1){
     display: flex;
     justify-content: space-between;
 }
-#formPhoneIcon:not(.company-name-icon){
+#formPhoneIcon1:not(.company-name-icon1){
     top: 0%;
     left: 3%;
     height: 110%;
     width: 11%;
 }
-#estimateForm input:not(input[type="submit"]):focus, #estimateForm textarea:focus{
+#estimateForm1 input:not(input[type="submit"]):focus, #estimateForm1 textarea:focus{
     outline: none;
     border-color: var(--primary-color);
 }
-#estimateForm input, #estimateForm textarea{
+#estimateForm1 input, #estimateForm1 textarea{
     display: inline-block;
     font-size: 1.2em;
     font-family: var(--main-font);
@@ -59,32 +59,32 @@
     background-color: transparent;
 }
 
-#estimateForm input.half-input{
+#estimateForm1 input.half-input1{
     width: 46%;
 }
-#estimateForm .input-wrapper .half-input:nth-child(2){
+#estimateForm1 .input-wrapper1 .half-input1:nth-child(2){
     margin-left: 4%;
 }
 
-#estimateForm #phoneInput{
+#estimateForm1 #phoneInput1{
     width: 101%;
 }
 
-#estimateForm input{
+#estimateForm1 input{
     padding-left: 2%;
 }
 
-#estimateFormSubmit{
+#estimateFormSubmit1{
     width: 60%;
     display: flex;
     justify-content: center;
     border-radius: 0;
 }
-#estimateForm input[type="submit"]:hover{
+#estimateForm1 input[type="submit"]:hover{
     filter: brightness(75%);
 }
 
-#estimateForm textarea{
+#estimateForm1 textarea{
     resize: none;
     width: 80%;
     padding-left: 2%;
@@ -92,13 +92,13 @@
     border: 2px solid black;
 }
 
-.form-disclaimer{
+.form-disclaimer1{
     padding: 1vw 1.5vw 0 1.5vw;
     text-align: center;
     font-weight: bold;
 }
 
-#estimateForm .main-link{
+#estimateForm1 .main-link{
     padding-top: 1vw;
     padding-bottom: 1vw;
     width: 50%;
@@ -108,73 +108,73 @@
 /* Small Laptop Styles */
 @media only screen and (max-width: 1400px){
     
-    #estimateForm{
+    #estimateForm1{
         width: 28vw;
     }
     
-    #estimateFormTitle{
+    #estimateFormTitle1{
         font-size: 2.5rem;
     }
-    #estimateForm input, #estimateForm textarea{
+    #estimateForm1 input, #estimateForm1 textarea{
         padding: 1.2vw 0 1.2vw 2%;
     }
 }
 
 /* TABLET STYLES */
 @media only screen and (min-width: 650px) and (max-width: 990px){
-    .form-disclaimer{
+    .form-disclaimer1{
         padding: 1.5vw 2vw 0 2vw;
 
     }
-    .header-content-wrapper:has(#estimateForm){
+    .header-content-wrapper1:has(#estimateForm1){
         margin: 0 0 8vw 0;
         width: 100%;
         display: flex;
         justify-content: center;
     }
     
-    #estimateForm{
+    #estimateForm1{
         /* padding: 2vw; */
         padding-top: 0;
         width: 42vw;
     }
     
-    #estimateFormTitle{
+    #estimateFormTitle1{
         font-size: 2.5em;
     }
     
-    .input-wrapper{
+    .input-wrapper1{
         margin: 2vw 0;
     }
-    #estimateForm input, #estimateForm textarea{
+    #estimateForm1 input, #estimateForm1 textarea{
         padding-top: 2vw;
         padding-bottom: 2vw;
         font-size: 1.5rem;
     }
-    .input-wrapper img{
+    .input-wrapper1 img{
         left: 2%;
     }
-    #formPhoneIcon:not(.company-name-icon){
+    #formPhoneIcon1:not(.company-name-icon1){
         left: 1%;
     }
-    #estimateForm input[type="submit"]{
+    #estimateForm1 input[type="submit"]{
         font-size: 2rem;
     }
 }
  
 /* MOBILE STYLES */
 @media only screen and (max-width: 649px){
-    .form-disclaimer{
+    .form-disclaimer1{
         padding: 3vw 3.5vw 0 3.5vw;
 
     }
-    .header-content-wrapper:has(#estimateForm){
+    .header-content-wrapper1:has(#estimateForm1){
         margin: 0 0 8vw 0;
         width: 100%;
         display: flex;
         justify-content: center;
     }
-    #estimateForm{
+    #estimateForm1{
         /* margin-top: 8vw; */
         /* padding: 4vw; */
         width: 65vw !important;
@@ -182,32 +182,32 @@
         width: 100%;
     }
     
-    #estimateFormTitle{
-        font-size: 2.4em;
+    #estimateFormTitle1{
+        font-size: 2em;
         padding-bottom: 4vw;
         padding-top: 4vw;
     }
-    .input-wrapper{
+    .input-wrapper1{
         margin: 4vw 0
     }
-    #estimateForm input, #estimateForm textarea{
+    #estimateForm1 input, #estimateForm1 textarea{
         padding: 3vw 0;
         padding-left: 2%;
         font-size: 1.3rem;
     }
-    .input-wrapper img{
+    .input-wrapper1 img{
         left: 2%;
     }
-    #formPhoneIcon:not(.company-name-icon){
+    #formPhoneIcon1:not(.company-name-icon1){
         left: 1%;
     }
-    #estimateForm input[type="submit"]{
+    #estimateForm1 input[type="submit"]{
         font-size: 1.8rem;
     }
-    #estimateForm textarea{
+    #estimateForm1 textarea{
         height: 10vw;
     }
-    #estimateForm .main-link{
+    #estimateForm1 .main-link{
         padding-top: 2vw;
         padding-bottom: 2vw;
     }
@@ -215,13 +215,13 @@
 
 /* VERY SMALL  MOBILE STYLES */
 @media only screen and (max-width: 290px){
-    #estimateForm{
+    #estimateForm1{
         width: 80vw;
     }
-    #estimateFormTitle{
+    #estimateFormTitle1{
         font-size: 2rem;
     }
-    .input-wrapper{
+    .input-wrapper1{
         margin-top: 3vw;
         margin-bottom: 3vw;
     }
