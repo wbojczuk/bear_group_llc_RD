@@ -23,8 +23,7 @@ export default function Navbar() {
   const homeRef: any = useRef()
   const aboutRef: any = useRef()
   const contactRef: any = useRef()
-  const reviewsRef: any = useRef()
-  const galleryRef: any = useRef()
+  const servicesRef: any = useRef()
 
   const logoRef: any = useRef()
   const hamburgerRef: any = useRef()
@@ -46,18 +45,13 @@ export default function Navbar() {
       ref: contactRef
     },
     {
-      triggers: ["/reviews"],
-      ref: reviewsRef
-    },
-    {
       triggers: ["/", "/home"],
       ref: homeRef
-    }
-    ,
+    },
     {
-      triggers: ["/gallery"],
-      ref: galleryRef
-    }
+      triggers: ["/services"],
+      ref: servicesRef
+    },
     
   ]
 
@@ -196,17 +190,37 @@ export default function Navbar() {
           url="/about"
           ref={aboutRef}
           />
-          <NavOption
-          title="Gallery"
-          url="/gallery"
-          ref={galleryRef}
-          />
-
-          <NavOption
-          title="Reviews"
-          url="/reviews"
-          ref={reviewsRef}
-          />
+         
+         <NavMultiOption
+         ref={servicesRef}
+         title="Services"
+         links={[
+          {
+            url: "/property-management",
+            title: "Property Management"
+          },
+          {
+            url: "/emergency-services",
+            title: "Emergency Services"
+          },
+          {
+            url: "/cleaning-services",
+            title: "Cleaning Services"
+          },
+          {
+            url: "/property-maintenance",
+            title: "Property Maintenance"
+          },
+          {
+            url: "/property-preservation",
+            title: "Property Preservation"
+          },
+          {
+            url: "/landscaping",
+            title: "Landscaping"
+          },
+         ]}
+         />
 
           <NavOption
           title="Contact"

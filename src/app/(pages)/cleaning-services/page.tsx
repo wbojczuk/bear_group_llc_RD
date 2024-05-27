@@ -1,11 +1,8 @@
 import type { Metadata } from "next"
-import PageTitle from "@/app/(mainsite)/components/misc/PageTitle/PageTitle"
-import AboutUs from "@/app/(mainsite)/components/aboutpage/AboutUs/AboutUs"
-import StatsRibbon from "@/app/(mainsite)/components/homepage/StatsRibbon/StatsRibbon"
 
 export const metadata: Metadata = {
-	  title: `About | ${process.env.NEXT_PUBLIC_WEBSITE_TITLE}`,
-	  description: `About | ${process.env.NEXT_PUBLIC_WEBSITE_DESC}`,
+	  title: `Cleaning Services | ${process.env.NEXT_PUBLIC_WEBSITE_TITLE}`,
+	  description: `Cleaning Services | ${process.env.NEXT_PUBLIC_WEBSITE_DESC}`,
 openGraph: {
 title: `${process.env.NEXT_PUBLIC_WEBSITE_TITLE}`,
 description: `${process.env.NEXT_PUBLIC_WEBSITE_DESC}`,
@@ -26,12 +23,10 @@ description: `${process.env.NEXT_PUBLIC_WEBSITE_DESC}`,
 }
 }
 
-export default function AboutPage(){
+export default function CleaningServicesPage(){
 	 return(
 	 	 <>
-			<PageTitle pageTitle="About Us" />
-			<AboutUs />
-			<StatsRibbon />
+
 	 	 </>
 	 )
 }

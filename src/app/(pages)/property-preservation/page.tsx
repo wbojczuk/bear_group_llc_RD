@@ -1,8 +1,8 @@
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-	  title: `Reviews | ${process.env.NEXT_PUBLIC_WEBSITE_TITLE}`,
-	  description: `Reviews | ${process.env.NEXT_PUBLIC_WEBSITE_DESC}`,
+	  title: `Property Preservation | ${process.env.NEXT_PUBLIC_WEBSITE_TITLE}`,
+	  description: `Property Preservation | ${process.env.NEXT_PUBLIC_WEBSITE_DESC}`,
 openGraph: {
 title: `${process.env.NEXT_PUBLIC_WEBSITE_TITLE}`,
 description: `${process.env.NEXT_PUBLIC_WEBSITE_DESC}`,
@@ -23,7 +23,7 @@ description: `${process.env.NEXT_PUBLIC_WEBSITE_DESC}`,
 }
 }
 
-export default function ReviewsPage(){
+export default function PropertyPreservationPage(){
 	 return(
 	 	 <>
 
