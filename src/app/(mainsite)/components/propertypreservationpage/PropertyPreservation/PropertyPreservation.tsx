@@ -101,7 +101,7 @@ Our team uses high-quality locks and the latest techniques to ensure your new lo
           </div>
         </div>
 
-        <div className={styles.itemWrapper}>
+        {/* <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
           <img className={styles.img} src="/img/services/sale.webp" width={360} height={600} aria-hidden />
           </div>
@@ -112,7 +112,7 @@ Our team uses high-quality locks and the latest techniques to ensure your new lo
               <p>At Bear Group LLC, we understand the critical role that signage plays in the real estate industry. That's why we offer professional real estate sign installation services to help maximize visibility and exposure for your property listings. Our experienced team ensures that signs are installed securely and prominently, adhering to local regulations and guidelines. Whether you're a real estate agent, property manager, or homeowner, you can trust Bear Group LLC to handle your sign installation needs efficiently and effectively, enhancing the marketability of your properties.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
-        </div>
+        </div> */}
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
