@@ -1,3 +1,5 @@
+import PageTitle from "@/app/(mainsite)/components/misc/PageTitle/PageTitle"
+import PropertyPreservation from "@/app/(mainsite)/components/propertypreservationpage/PropertyPreservation/PropertyPreservation"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
@@ -26,7 +28,8 @@ description: `${process.env.NEXT_PUBLIC_WEBSITE_DESC}`,
 export default function PropertyPreservationPage(){
 	 return(
 	 	 <>
-
+			<PageTitle pageTitle="Property Preservation" />
+			<PropertyPreservation />
 	 	 </>
 	 )
 }

@@ -8,7 +8,7 @@ export default function PropertyManagement() {
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/screening.png" width={360} height={600} aria-hidden />
+          <img className={styles.img} src="/img/services/screening.webp" width={360} height={600} aria-hidden />
           </div>
 
           <div className={styles.content}>
@@ -22,7 +22,7 @@ export default function PropertyManagement() {
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/repairs.png" width={360} height={600} aria-hidden />
+          <img className={styles.img} src="/img/services/repairs.webp" width={360} height={600} aria-hidden />
           </div>
 
           <div className={styles.content}>
@@ -37,7 +37,7 @@ With our frequent maintenance and inspections, you can rest assured knowing that
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/homewatch.png" width={360} height={600} aria-hidden />
+          <img className={styles.img} src="/img/services/homewatch.webp" width={360} height={600} aria-hidden />
           </div>
 
           <div className={styles.content}>
@@ -51,7 +51,7 @@ With our frequent maintenance and inspections, you can rest assured knowing that
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/storm.png" width={360} height={600} aria-hidden />
+          <img className={styles.img} src="/img/services/storm.webp" width={360} height={600} aria-hidden />
           </div>
 
           <div className={styles.content}>
@@ -65,7 +65,7 @@ With our frequent maintenance and inspections, you can rest assured knowing that
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/cleaning.png" width={360} height={600} aria-hidden />
+          <img className={styles.img} src="/img/services/cleaning.webp" width={360} height={600} aria-hidden />
           </div>
 
           <div className={styles.content}>
@@ -81,7 +81,7 @@ Additionally, our Changeovers service is perfect for rental properties, preparin
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/marketing.png" width={360} height={600} aria-hidden />
+          <img className={styles.img} src="/img/services/marketing.webp" width={360} height={600} aria-hidden />
           </div>
 
         <div className={styles.content}>

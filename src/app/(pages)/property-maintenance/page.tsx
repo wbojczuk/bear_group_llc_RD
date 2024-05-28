@@ -1,3 +1,5 @@
+import PageTitle from "@/app/(mainsite)/components/misc/PageTitle/PageTitle"
+import PropertyMaintenance from "@/app/(mainsite)/components/propertymaintenancepage/CleaningServices/PropertyMaintenance"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
@@ -26,7 +28,8 @@ description: `${process.env.NEXT_PUBLIC_WEBSITE_DESC}`,
 export default function PropertyMaintenancePage(){
 	 return(
 	 	 <>
-
+			<PageTitle pageTitle="Property Maintenance" />
+			<PropertyMaintenance />
 	 	 </>
 	 )
 }

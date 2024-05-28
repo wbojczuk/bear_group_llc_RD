@@ -1,3 +1,5 @@
+import LandscapingServices from "@/app/(mainsite)/components/landscapingpage/LandscapingServices/LandscapingServices"
+import PageTitle from "@/app/(mainsite)/components/misc/PageTitle/PageTitle"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
@@ -26,7 +28,8 @@ description: `${process.env.NEXT_PUBLIC_WEBSITE_DESC}`,
 export default function LandscapingPage(){
 	 return(
 	 	 <>
-
+			<PageTitle pageTitle="Landscaping Services" />
+			<LandscapingServices />
 	 	 </>
 	 )
 }

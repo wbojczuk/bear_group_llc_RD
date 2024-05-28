@@ -12,3 +12,11 @@
     font-size: 5rem;
     text-align: center;
 }
+
+/* MOBILE STYLES */
+@media only screen and (max-width: 649px){
+
+    .pageTitle h1{
+        font-size: 3.5rem;
+    }    
+}
