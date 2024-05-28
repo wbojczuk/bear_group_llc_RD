@@ -204,10 +204,6 @@ export default function Navbar() {
             title: "Emergency Services"
           },
           {
-            url: "/cleaning-services",
-            title: "Cleaning Services"
-          },
-          {
             url: "/property-maintenance",
             title: "Property Maintenance"
           },
