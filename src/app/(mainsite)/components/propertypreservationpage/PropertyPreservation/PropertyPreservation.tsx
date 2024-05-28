@@ -127,7 +127,7 @@ Our team uses high-quality locks and the latest techniques to ensure your new lo
           </div>
         </div>
 
-        <div className={styles.itemWrapper}>
+        {/* <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
           <img className={styles.img} src="/img/services/pool.webp" width={360} height={600} aria-hidden />
           </div>
@@ -138,7 +138,7 @@ Our team uses high-quality locks and the latest techniques to ensure your new lo
               <p>At Bear Group LLC, we offer professional pool cleaning services to keep your pool pristine and inviting all year round. Our trained technicians utilize top-of-the-line equipment and environmentally friendly cleaning products to remove debris, balance chemicals, and maintain optimal water quality. Whether it's a residential pool or a commercial facility, we tailor our services to meet your specific needs, ensuring a safe and enjoyable swimming experience for you and your guests. With our reliable and efficient pool cleaning solutions, you can relax and enjoy your pool without the hassle of maintenance.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
-        </div>
+        </div> */}
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
