@@ -88,7 +88,7 @@ Our team uses high-quality locks and the latest techniques to ensure your new lo
           </div>
         </div>
 
-        <div className={styles.itemWrapper}>
+        {/* <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
           <img className={styles.img} src="/img/services/photos.webp" width={360} height={600} aria-hidden />
           </div>
@@ -99,7 +99,7 @@ Our team uses high-quality locks and the latest techniques to ensure your new lo
               <p>The "Property Photo Service" offered by Bear Group LLC ensures that your property is presented in the best possible light. Our skilled photographers capture high-quality images that showcase the unique features and appeal of your property, whether it's for rental listings, real estate sales, or personal documentation. With attention to detail and expertise in composition, lighting, and editing, our team delivers professional photos that make a lasting impression on potential buyers, tenants, or visitors. Trust Bear Group LLC to elevate the visual presentation of your property and enhance its marketability with our Property Photo Service.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
-        </div>
+        </div> */}
 
         {/* <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
