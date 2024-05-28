@@ -79,7 +79,7 @@ Additionally, our Changeovers service is perfect for rental properties, preparin
           </div>
         </div>
 
-        <div className={styles.itemWrapper}>
+        {/* <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
           <img className={styles.img} src="/img/services/marketing.webp" width={360} height={600} aria-hidden />
           </div>
@@ -91,7 +91,7 @@ Additionally, our Changeovers service is perfect for rental properties, preparin
               </p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
-        </div>
+        </div> */}
 
     </section>
   )
