@@ -196,8 +196,12 @@ export default function Navbar() {
          title="Services"
          links={[
           {
-            url: "/property-management",
-            title: "Property Management"
+            url: "/property-services",
+            title: "Property Services"
+          },
+          {
+            url: "/cleaning-services",
+            title: "Cleaning Services"
           },
           {
             url: "/commercial-properties",

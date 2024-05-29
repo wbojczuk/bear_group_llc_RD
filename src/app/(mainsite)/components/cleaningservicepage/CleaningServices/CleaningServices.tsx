@@ -6,12 +6,12 @@ export default function CleaningServices() {
   return (
     <section className={styles.section}>
 
-        <div className={styles.itemWrapper}>
+        {/* <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
           <img className={styles.img} src="/img/services/financial.webp" width={360} height={600} aria-hidden />
-          </div>
+          </div> */}
 
-          <div className={styles.content}>
+          {/* <div className={styles.content}>
               <h2>Financial Institution</h2>
 
               <p>We offer specialized cleaning services tailored for banks and financial institutions. Our dedicated team of caretakers ensures a pristine environment by sweeping, vacuuming, and mopping floors with meticulous attention to detail. 
@@ -47,7 +47,7 @@ Our trained cleaning professionals use advanced equipment and eco-friendly produ
               <p>Enhance the longevity and appearance of your carpets and upholstery with our regular cleaning services. At Bear Group LLC, we use specialized techniques and equipment to deep clean and rejuvenate your fabrics, removing dirt, stains, and allergens. Our floor maintenance services ensure that all types of flooring in your home are kept in pristine condition, from hardwood to tile and everything in between. Call us today to schedule an appointment and experience the difference professional care can make for your home.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
-        </div>
+        </div> */}
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
@@ -61,6 +61,21 @@ Our trained cleaning professionals use advanced equipment and eco-friendly produ
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
         </div>
+
+
+        <div className={styles.itemWrapper}>
+          <div className={styles.imgWrapper}>
+          <img className={styles.img} src="/img/services/restroom.webp" width={360} height={600} aria-hidden />
+          </div>
+
+          <div className={styles.content}>
+              <h2>Commercial Restroom Cleaning</h2>
+
+              <p>Our commercial restroom cleaning service ensures that your business's restrooms are spotless, hygienic, and welcoming for all users. We thoroughly clean and sanitize all surfaces, including toilets, sinks, floors, and fixtures, to eliminate germs and odors. Our professional team uses high-quality cleaning products and techniques to maintain a pristine and safe environment, reflecting the high standards of your business.</p>
+              <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
+          </div>
+        </div>
+        
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
@@ -83,7 +98,7 @@ Our trained cleaning professionals use advanced equipment and eco-friendly produ
           <div className={styles.content}>
               <h2>Residential Cleaning</h2>
 
-              <p>Count on us for thorough and reliable cleaning services for your home, vacation home, condominium, or any other residential spaces. Our team is dedicated to ensuring your property is spotless and well-maintained, providing you with a clean and comfortable living environment. Contact us today to schedule a cleaning and experience the difference our professional services can make.</p>
+              <p>Count on us for thorough and reliable cleaning services for your vacation homes. Our team is dedicated to ensuring your property is spotless and well-maintained, providing you with a clean and comfortable living environment. Contact us today to schedule a cleaning and experience the difference our professional services can make.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
         </div>
