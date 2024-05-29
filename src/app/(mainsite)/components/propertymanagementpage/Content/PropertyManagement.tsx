@@ -22,7 +22,7 @@ export default function PropertyManagement() {
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/repairs.webp" width={360} height={600} aria-hidden />
+          <img className={styles.img} src="/img/services/maintenance.webp" width={360} height={600} aria-hidden />
           </div>
 
           <div className={styles.content}>
