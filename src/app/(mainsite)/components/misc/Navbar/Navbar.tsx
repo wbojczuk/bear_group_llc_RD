@@ -200,6 +200,10 @@ export default function Navbar() {
             title: "Property Management"
           },
           {
+            url: "/commercial-properties",
+            title: "Commercial Properties"
+          },
+          {
             url: "/emergency-services",
             title: "Emergency Services"
           },
