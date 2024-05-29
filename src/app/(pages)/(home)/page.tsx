@@ -31,10 +31,10 @@ export default function Home() {
   const myServices: servicesModuleType = {
     services: [
       {
-        url: "/property-management",
+        url: "/property-services",
         icon: <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M19 9.3V4h-3v2.6L12 3L2 12h3v8h5v-6h4v6h5v-8h3zm-9 .7c0-1.1.9-2 2-2s2 .9 2 2z"></path></svg>,
-        title: "Property Management",
-        description: "Property management involves taking care of all the day-to-day tasks needed to keep your property in top condition. This service includes everything from handling repairs and maintenance to managing tenants and ensuring your property stays in great shape."
+        title: "Property Services",
+        description: "Property services involve taking care of all the day-to-day tasks needed to keep your property in top condition. This service includes everything from handling repairs and maintenance to managing tenants and ensuring your property stays in great shape."
       },
       {
         url: "/property-preservation",
