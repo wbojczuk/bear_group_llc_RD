@@ -14,12 +14,12 @@ export default function PropertyMaintenance() {
           <div className={styles.content}>
               <h2>Exterior Maintenance</h2>
 
-              <p>This refers to upkeep related to a property’s exterior—also known as grounds maintenance—including cleaning of a building’s exterior, roof gutters, and drains. It also includes landscaping and gardening, repairs, snow removal in common areas, and graffiti removal.</p>
+              <p>This refers to upkeep related to a property’s exterior—also known as grounds maintenance—including cleaning of a building’s exterior. It also includes landscaping and gardening, and repairs.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
         </div>
 
-        <div className={styles.itemWrapper}>
+        {/* <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
           <img className={styles.img} src="/img/services/pest.webp" width={360} height={600} aria-hidden />
           </div>
@@ -30,7 +30,7 @@ export default function PropertyMaintenance() {
               <p>Property maintenance includes pest or rodent control and removal, as well as preventative measures (like timely trash removal—see below).</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
-        </div>
+        </div> */}
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
@@ -45,7 +45,7 @@ export default function PropertyMaintenance() {
           </div>
         </div>
 
-        <div className={styles.itemWrapper}>
+        {/* <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
           <img className={styles.img} src="/img/services/trash.webp" width={360} height={600} aria-hidden />
           </div>
@@ -56,7 +56,7 @@ export default function PropertyMaintenance() {
               <p>The separation and removal of trash and recycling is an important part of preventive maintenance for pest control. Professional property managers are experts in local management and collection laws which can save you from paying costly city waste collection fees.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
-        </div>
+        </div> */}
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
