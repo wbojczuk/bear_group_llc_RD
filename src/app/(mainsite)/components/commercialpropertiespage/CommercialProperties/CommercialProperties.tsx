@@ -14,9 +14,9 @@ export default function CommercialProperties() {
           <div className={styles.content}>
               <h2>Commercial Properties</h2>
 
-              <p>Our Commercial Properties Services are designed to keep your business premises in pristine condition and running smoothly. We offer comprehensive safety and condition inspections on a weekly, monthly, or quarterly basis, along with regular lighting inspections to ensure your property remains well-lit and secure. Our porter services include routine cleaning and upkeep, while our bulk trash removal and wasp nest removal services help maintain a clean and safe environment.
+              <p>At Bear Group LLC, our Commercial Property Services are designed to keep your commercial spaces safe, clean, and well-maintained. We offer comprehensive weekly, monthly, and quarterly property safety and condition inspections, ensuring your property meets all standards and remains in excellent condition. Our services include thorough lighting inspections, porter services for daily upkeep, and bulk trash removal to keep your premises clean and inviting.
 <br /><br />
-Additionally, we handle vendor management and coordination, ensuring that all external work is completed to the highest standards through our quality assurance reviews. We also take care of vacancy cleaning and coordinate tenant move-ins and move-outs, making transitions seamless and hassle-free for both you and your tenants. With our wide range of services, you can focus on running your business while we take care of the property management details.
+Additionally, we handle wasp nest removal for a safe environment, manage and coordinate with vendors to ensure seamless service delivery, and conduct quality assurance reviews of vendor work. We also provide vacancy cleaning services and coordinate tenant move-ins and move-outs to make transitions smooth and hassle-free. With Bear Group LLC, your commercial property is in capable and reliable hands.
               </p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
