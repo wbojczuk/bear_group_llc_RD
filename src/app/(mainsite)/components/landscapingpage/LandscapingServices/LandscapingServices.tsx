@@ -47,7 +47,7 @@ export default function LandscapingServices() {
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/lawn.webp" width={360} height={600} aria-hidden />
+          <img className={styles.img} src="/img/services/lawn_install.webp" width={360} height={600} aria-hidden />
           </div>
 
           <div className={styles.content}>

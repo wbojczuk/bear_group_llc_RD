@@ -8,7 +8,7 @@ export default function PropertyMaintenance() {
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/exterior.webp" width={360} height={600} aria-hidden />
+          <img className={styles.img} src="/img/services/exterior_maintenance.webp" width={360} height={600} aria-hidden />
           </div>
 
           <div className={styles.content}>
@@ -60,7 +60,7 @@ export default function PropertyMaintenance() {
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/repairs.webp" width={360} height={600} aria-hidden />
+          <img className={styles.img} src="/img/services/interior_maintenance.webp" width={360} height={600} aria-hidden />
           </div>
 
           <div className={styles.content}>
