@@ -64,7 +64,7 @@ Our team uses high-quality locks and the latest techniques to ensure your new lo
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/repairs.webp" width={360} height={600} aria-hidden />
+          <img className={styles.img} src="/img/services/handyman.webp" width={360} height={600} aria-hidden />
           </div>
 
           <div className={styles.content}>
