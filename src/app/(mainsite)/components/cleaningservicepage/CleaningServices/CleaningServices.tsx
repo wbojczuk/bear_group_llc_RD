@@ -49,7 +49,7 @@ Our trained cleaning professionals use advanced equipment and eco-friendly produ
           </div>
         </div> */}
 
-        <div className={styles.itemWrapper}>
+        {/* <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
           <img className={styles.img} src="/img/services/dealership.webp" width={360} height={600} aria-hidden />
           </div>
@@ -60,7 +60,7 @@ Our trained cleaning professionals use advanced equipment and eco-friendly produ
               <p>We offer specialized car dealership cleaning services designed to keep your showroom and facilities spotless and inviting. Our comprehensive services include trash takeouts, ensuring all waste is properly disposed of, and thorough cleaning of common areas to maintain a welcoming environment for your customers. Additionally, we focus on meticulous floor cleaning to ensure your dealership always looks its best, providing a pristine setting for showcasing your vehicles. Let us handle the cleaning so you can focus on delivering exceptional customer service.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
-        </div>
+        </div> */}
 
 
         <div className={styles.itemWrapper}>

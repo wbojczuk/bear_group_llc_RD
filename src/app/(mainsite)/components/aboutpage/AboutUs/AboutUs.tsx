@@ -7,7 +7,7 @@ return (
     <div className={styles.textWrapper}>
         <h4>Who We Are</h4>
         <h2>About Us</h2>
-        <p>At Bear Group LLC, we believe in turning your property maintenance needs into a hassle-free experience. Our team is dedicated to delivering top-notch service with efficiency and professionalism. No task is too big or too small for us—whether it's routine upkeep or a major repair, we’re ready to tackle it all. Let's get it done right the first time, so you can enjoy a well-maintained property without the stress. Trust Bear Group LLC to keep your property in prime condition, every day.</p>
+        <p>Our journey began as a landscaping company, but over the years, we have adapted and expanded our services to meet the evolving needs of our clients. We now offer a comprehensive range of interior and exterior property services. We are a local, family-owned, and operated company with more than 35 years of dedicated experience, we’ve earned the trust from many customers. What sets us apart is our extensive experience in the field. We are dedicated professionals who are experts in our respective areas, ensuring that we deliver top-notch services to our customers.</p>
         <Link className='main-link' href={"/contact"}>Contact Us</Link>
     </div>
     <div className={styles.imgWrapper}>

@@ -1,12 +1,12 @@
 import styles from "./contactinfo.module.css"
-import FreeEstimateForm from "../FreeEstimateForm/FreeEstimateForm"
+import MultiPartForm from "../../misc/MultiPartForm/MultiPartForm"
 export default function ContactInfo() {
   return (
     <section className={styles.contactInfo}>
         <div className={styles.formWrapper}>
           <h2>Get in touch</h2>
           <p>Contact us to get started. We’re always happy to provide a free quote and help out with any questions you may have.</p>
-          <FreeEstimateForm />
+          <MultiPartForm />
         </div>
         <div className={styles.imgWrapper}>
 

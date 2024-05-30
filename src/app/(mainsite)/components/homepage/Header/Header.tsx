@@ -2,9 +2,17 @@
 
 import Link from 'next/link';
 import styles from './header.module.css';
-import FreeEstimateForm from './FreeEstimateForm/FreeEstimateForm';
+// import FreeEstimateForm from './FreeEstimateForm/FreeEstimateForm';
+import MultiPartForm from '../../misc/MultiPartForm/MultiPartForm';
+import serviceData from '@/app/(mainsite)/data/serviceData';
 
 export default function Header(){
+
+    
+    
+
+
+
 return (
  <div className={styles.header}>
 
@@ -20,7 +28,7 @@ return (
 
     </div>
     <div className={styles.formWrapper}>
-        <FreeEstimateForm />
+        <MultiPartForm />
     </div>
 
     <div className="shader"></div>
