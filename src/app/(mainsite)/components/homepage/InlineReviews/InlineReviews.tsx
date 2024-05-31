@@ -46,7 +46,7 @@ export default function InlineReviews() {
             <a target="_blank" className="main-link" href="https://www.facebook.com/profile.php?id=61557737912662&sk=reviews">Leave Review</a>
             <Link className="main-link" href={"/contact"}>Contact</Link>
         </div>
-        <img src="/img/reviews.png" aria-hidden className="bg-img" />
+        <img src="/img/reviews.webp" aria-hidden className="bg-img" />
         <div className="shader" style={{backgroundColor: "rgba(255,255,255,0.9)"}}></div>
     </section>
   )

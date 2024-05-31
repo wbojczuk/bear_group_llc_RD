@@ -11,7 +11,7 @@ import serviceAreaData from "@/app/(mainsite)/data/serviceAreaData";
 
 export default function Home() {
 
-  const circleSRC = "/img/circle.png"
+  const circleSRC = "/img/circle.webp"
 
   const ribbonContent = <>
   <span>Insect Control</span>
