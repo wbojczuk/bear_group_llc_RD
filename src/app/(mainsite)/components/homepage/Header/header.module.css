@@ -3,7 +3,7 @@
     align-items: flex-start;
     justify-content: space-between;
     position: relative;
-    padding: var(--section-padding-top) 10% var(--section-padding-top) 10%;
+    padding: calc(var(--section-padding-top) * 2) 10% ;
 }
 
 .textWrapper{

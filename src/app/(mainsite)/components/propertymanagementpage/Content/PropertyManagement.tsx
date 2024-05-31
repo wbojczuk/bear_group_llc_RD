@@ -20,7 +20,7 @@ export default function PropertyManagement() {
           </div>
         </div>
 
-        <div className={styles.itemWrapper}>
+        {/* <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
           <img className={styles.img} src="/img/services/maintenance.webp" width={360} height={600} aria-hidden />
           </div>
@@ -33,7 +33,7 @@ With our frequent maintenance and inspections, you can rest assured knowing that
               </p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
-        </div>
+        </div> */}
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>

@@ -203,18 +203,18 @@ export default function Navbar() {
             url: "/cleaning-services",
             title: "Cleaning Services"
           },
-          {
-            url: "/commercial-properties",
-            title: "Commercial Properties"
-          },
-          {
-            url: "/emergency-services",
-            title: "Emergency Services"
-          },
-          {
-            url: "/property-maintenance",
-            title: "Property Maintenance"
-          },
+          // {
+          //   url: "/commercial-properties",
+          //   title: "Commercial Properties"
+          // },
+          // {
+          //   url: "/emergency-services",
+          //   title: "Emergency Services"
+          // },
+          // {
+          //   url: "/property-maintenance",
+          //   title: "Property Maintenance"
+          // },
           {
             url: "/property-preservation",
             title: "Property Preservation"
