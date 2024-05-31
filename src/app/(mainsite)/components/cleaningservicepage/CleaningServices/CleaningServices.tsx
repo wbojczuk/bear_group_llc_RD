@@ -6,6 +6,22 @@ export default function CleaningServices() {
   return (
     <section className={styles.section}>
 
+<div className={styles.itemWrapper}>
+          <div className={styles.imgWrapper}>
+          <img className={styles.img} src="/img/services/cleaning.webp" width={360} height={600} aria-hidden />
+          </div>
+
+          <div className={styles.content}>
+              <h2>Cleaning Service</h2>
+
+              <p>At Bear Group LLC, we offer a variety of property maintenance services tailored to meet your needs. Our General House Cleaning ensures your home stays tidy and welcoming with routine cleaning tasks. For a more thorough clean, our Deep Cleans tackle those hard-to-reach areas and stubborn grime, leaving your property spotless and refreshed.
+<br /><br />
+Additionally, our Changeovers service is perfect for rental properties, preparing the home between guests with efficient and detailed cleaning. Our Guest Readiness Services go a step further, setting up your property to be guest-ready with special touches and thorough checks to create a welcoming environment for every visitor.
+              </p>
+              <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
+          </div>
+        </div>
+
         {/* <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
           <img className={styles.img} src="/img/services/financial.webp" width={360} height={600} aria-hidden />
@@ -61,6 +77,20 @@ Our trained cleaning professionals use advanced equipment and eco-friendly produ
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
         </div> */}
+
+<div className={styles.itemWrapper}>
+          <div className={styles.imgWrapper}>
+          <img className={styles.img} src="/img/services/janitor.webp" width={360} height={600} aria-hidden />
+          </div>
+
+          <div className={styles.content}>
+              <h2>Janitorial</h2>
+
+              <p>At Bear Group LLC, our janitorial services are designed to maintain the cleanliness and hygiene of your property, creating a welcoming and safe environment for all occupants. Our dedicated team utilizes industry-leading techniques and eco-friendly products to ensure thorough cleaning of all surfaces, from floors and windows to restrooms and common areas. Whether it's daily, weekly, or customized cleaning schedules, we tailor our janitorial services to meet your specific needs, leaving your property impeccably clean and sanitized. Trust Bear Group LLC to keep your space pristine, so you can focus on what matters most.</p>
+              <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
+          </div>
+        </div>
+
 
 
         <div className={styles.itemWrapper}>

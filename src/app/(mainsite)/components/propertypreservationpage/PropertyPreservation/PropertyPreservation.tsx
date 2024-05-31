@@ -140,19 +140,7 @@ Our team uses high-quality locks and the latest techniques to ensure your new lo
           </div>
         </div> */}
 
-        <div className={styles.itemWrapper}>
-          <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/janitor.webp" width={360} height={600} aria-hidden />
-          </div>
-
-          <div className={styles.content}>
-              <h2>Janitorial</h2>
-
-              <p>At Bear Group LLC, our janitorial services are designed to maintain the cleanliness and hygiene of your property, creating a welcoming and safe environment for all occupants. Our dedicated team utilizes industry-leading techniques and eco-friendly products to ensure thorough cleaning of all surfaces, from floors and windows to restrooms and common areas. Whether it's daily, weekly, or customized cleaning schedules, we tailor our janitorial services to meet your specific needs, leaving your property impeccably clean and sanitized. Trust Bear Group LLC to keep your space pristine, so you can focus on what matters most.</p>
-              <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
-          </div>
-        </div>
-
+       
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
           <img className={styles.img} src="/img/services/winter.webp" width={360} height={600} aria-hidden />

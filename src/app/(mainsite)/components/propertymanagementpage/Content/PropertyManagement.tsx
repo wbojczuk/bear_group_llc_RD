@@ -63,21 +63,7 @@ With our frequent maintenance and inspections, you can rest assured knowing that
           </div>
         </div>
 
-        <div className={styles.itemWrapper}>
-          <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/cleaning.webp" width={360} height={600} aria-hidden />
-          </div>
-
-          <div className={styles.content}>
-              <h2>Cleaning Service</h2>
-
-              <p>At Bear Group LLC, we offer a variety of property maintenance services tailored to meet your needs. Our General House Cleaning ensures your home stays tidy and welcoming with routine cleaning tasks. For a more thorough clean, our Deep Cleans tackle those hard-to-reach areas and stubborn grime, leaving your property spotless and refreshed.
-<br /><br />
-Additionally, our Changeovers service is perfect for rental properties, preparing the home between guests with efficient and detailed cleaning. Our Guest Readiness Services go a step further, setting up your property to be guest-ready with special touches and thorough checks to create a welcoming environment for every visitor.
-              </p>
-              <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
-          </div>
-        </div>
+       
 
         {/* <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
