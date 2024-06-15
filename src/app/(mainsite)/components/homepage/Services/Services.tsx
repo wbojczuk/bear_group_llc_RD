@@ -36,7 +36,7 @@ export default function Services(props: servicesModuleType) {
     <section className={styles.services}>
             <h4>Our Services</h4>
             <h2>See Our Different Services</h2>
-            <p className={styles.desc}>At Bear Group LLC, we pride ourselves on providing a comprehensive range of services to ensure your property is always well-managed and maintained to the highest standards. Our team of experienced professionals is dedicated to taking care of every aspect of your home, so you can enjoy peace of mind knowing that your property is in excellent hands. From routine maintenance and repairs to specialized services, we have the expertise and resources to meet all your property needs. Take a look at the different categories below to see the full scope of what Bear Group LLC has to offer.</p>
+            <p className={styles.desc}>At Blue Village Property Services LLC, we pride ourselves on providing a comprehensive range of services to ensure your property is always well-managed and maintained to the highest standards. Our team of experienced professionals is dedicated to taking care of every aspect of your home, so you can enjoy peace of mind knowing that your property is in excellent hands. From routine maintenance and repairs to specialized services, we have the expertise and resources to meet all your property needs. Take a look at the different categories below to see the full scope of what we have to offer.</p>
 
             <div className={styles.servicesWrapper}>
                 {serviceElems}

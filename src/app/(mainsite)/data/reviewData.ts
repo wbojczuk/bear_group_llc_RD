@@ -3,7 +3,7 @@ const reviewData: reviewType[] = [
         name: "Zack T.",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `Mike has come a few times to treat my bee issues and has done a great job explaining how he is doing the job, what to look for and how to stay safe. Very professional and knowledgeable. Definitely would hire Bear Group again.`
+        desc: `Mike has come a few times to treat my bee issues and has done a great job explaining how he is doing the job, what to look for and how to stay safe. Very professional and knowledgeable. Definitely would hire Blue Village Property Services again.`
     },
     {
         name: "Jose R.",
@@ -57,7 +57,7 @@ const reviewData: reviewType[] = [
         name: "Cristina C.",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `These guys are fantastic. Definitely recommend. We had a yard that hadn’t been maintained in years. They over seaded my front and rear yard and treated the weeds throughout. Now we have an amazing yard, thanks to Bear Group. `
+        desc: `These guys are fantastic. Definitely recommend. We had a yard that hadn’t been maintained in years. They over seaded my front and rear yard and treated the weeds throughout. Now we have an amazing yard, thanks to Blue Village Property Services. `
     },
     {
         name: "Russell K.",
@@ -76,50 +76,50 @@ const reviewData: reviewType[] = [
         name: "Tim R.",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `I hired Bear Group for my vacation properties throughout CT, RI and MA. I signed up for the home Watch, Storm watch and cleaning service. They are amazing at what they do. We will use them for all our properties. We love that they are available 24/7.  Thank you Bear Group.`
+        desc: `I hired Blue Village Property Services for my vacation properties throughout CT, RI and MA. I signed up for the home Watch, Storm watch and cleaning service. They are amazing at what they do. We will use them for all our properties. We love that they are available 24/7.  Thank you Blue Village Property Services.`
     },
     {
         name: "Rachel G.",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `Our bank hired Bear Group to maintain the foreclosed homes throught out CT and RI. They are amazing. They do it all, from changing locks, cleaning, trashouts to landscaping and so much more. Bear Group comes ready to do every and any job needed to be done. Highly recommended.`
+        desc: `Our bank hired Blue Village Property Services to maintain the foreclosed homes throught out CT and RI. They are amazing. They do it all, from changing locks, cleaning, trashouts to landscaping and so much more. Blue Village Property Services comes ready to do every and any job needed to be done. Highly recommended.`
     },
     {
         name: "High Tide Motel",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `We contacted Bear Group, as they were referred to us from other motels. We just bought this motel and needed a service to come in and do it all. Bear Group came in with a team. They did it all. They changed all the door locks, cleaned all the rooms, treated the rooms for insect control as well as did all the landscaping and we just paid one price for all the services. They did an amazing job. Thank you so much guys.`
+        desc: `We contacted Blue Village Property Services, as they were referred to us from other motels. We just bought this motel and needed a service to come in and do it all. Blue Village Property Services came in with a team. They did it all. They changed all the door locks, cleaned all the rooms, treated the rooms for insect control as well as did all the landscaping and we just paid one price for all the services. They did an amazing job. Thank you so much guys.`
     },
     {
         name: "Tina W.",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `Bear Group serviced our night club. They came in and cleaned the bathrooms and bar area. They also did an insect control for ants. They are wonderful to work with. The office manager Bethe is wonderful and will work with what ever you need for scheduling. If your looking for your office or club to be cleaned or serviced for insects you Def want to contact Bear Group.`
+        desc: `Blue Village Property Services serviced our night club. They came in and cleaned the bathrooms and bar area. They also did an insect control for ants. They are wonderful to work with. The office manager Bethe is wonderful and will work with what ever you need for scheduling. If your looking for your office or club to be cleaned or serviced for insects you Def want to contact Blue Village Property Services.`
     },
     {
         name: "Bethany W.",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `Highly recommend Bear Group & Mike! Always helpful and explains everything. Goes above and beyond. Thanks Mike and Bear Group`
+        desc: `Highly recommend Blue Village Property Services & Mike! Always helpful and explains everything. Goes above and beyond. Thanks Mike and Blue Village Property Services`
     },
     {
         name: "Cory T.",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `Highly recommend Bear Group! Mike went above and beyond to help us. Informative & very friendly. We are thankful for Bear Group and Mike! Definitely the place to go for all your mosquito and tick needs!`
+        desc: `Highly recommend Blue Village Property Services! Mike went above and beyond to help us. Informative & very friendly. We are thankful for Blue Village Property Services and Mike! Definitely the place to go for all your mosquito and tick needs!`
     },
     {
         name: "Christopher J.",
         role: "Homeowner",
         title: "Best Work Ever!",
         desc: `Professionalism, Punctuality, Responsiveness
-        It was my first time using Bear Group. They were extremely responsive and communicated with me, especially with me being remote from the property. Bethe in the office walked me through there services. Then Mike and his crew came in and did a great job. They are a perfect team.`
+        It was my first time using Blue Village Property Services. They were extremely responsive and communicated with me, especially with me being remote from the property. Bethe in the office walked me through there services. Then Mike and his crew came in and did a great job. They are a perfect team.`
     },
     {
         name: "Brian R.",
         role: "Homeowner",
         title: "Best Work Ever!",
-        desc: `Professionalism, Quality. Bear Group did an excellent job, and I definitely recommend them to anyone. I am amazed how well they kept my summer cottages clean and the lawns maintained. I received so many compliments on how clean the cottages were and how the yard was well maintained. We will continue to use them. `
+        desc: `Professionalism, Quality. Blue Village Property Services did an excellent job, and I definitely recommend them to anyone. I am amazed how well they kept my summer cottages clean and the lawns maintained. I received so many compliments on how clean the cottages were and how the yard was well maintained. We will continue to use them. `
     },
     {
         name: "Marilyn C.",
@@ -132,7 +132,7 @@ const reviewData: reviewType[] = [
         role: "Homeowner",
         title: "Best Work Ever!",
         desc: `Professionalism, Punctuality, Responsiveness
-        It was my first time using Bear Group. They were extremely responsive and communicated with me, especially with me being remote from the property. Bethe in the office walked me through there services. Then Mike and his crew came in and did a great job. They are a perfect team.`
+        It was my first time using Blue Village Property Services. They were extremely responsive and communicated with me, especially with me being remote from the property. Bethe in the office walked me through there services. Then Mike and his crew came in and did a great job. They are a perfect team.`
     },
 ]
 

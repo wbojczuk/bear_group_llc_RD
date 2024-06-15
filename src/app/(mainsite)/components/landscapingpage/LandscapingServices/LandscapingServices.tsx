@@ -14,7 +14,7 @@ export default function LandscapingServices() {
           <div className={styles.content}>
               <h2>Aeration</h2>
 
-              <p>Aeration is a vital service in lawn care, involving the process of perforating the soil with small holes to allow air, water, and nutrients to penetrate the grassroots. This helps alleviate soil compaction and promotes healthier root growth, resulting in a lusher and more vibrant lawn. At Bear Group LLC, our aeration service is conducted with precision and expertise, using specialized equipment to ensure optimal results for your lawn's overall health and appearance. Whether your lawn is struggling to thrive or you simply want to maintain its beauty, our aeration service is a key component of our comprehensive property maintenance offerings.</p>
+              <p>Aeration is a vital service in lawn care, involving the process of perforating the soil with small holes to allow air, water, and nutrients to penetrate the grassroots. This helps alleviate soil compaction and promotes healthier root growth, resulting in a lusher and more vibrant lawn. At Blue Village Property Services LLC, our aeration service is conducted with precision and expertise, using specialized equipment to ensure optimal results for your lawn's overall health and appearance. Whether your lawn is struggling to thrive or you simply want to maintain its beauty, our aeration service is a key component of our comprehensive property maintenance offerings.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
         </div>
@@ -40,7 +40,7 @@ export default function LandscapingServices() {
           <div className={styles.content}>
               <h2>Fertilizing</h2>
 
-              <p>Fertilizing is a crucial aspect of property maintenance, essential for promoting healthy growth and vibrant appearance in lawns, gardens, and landscaping. Our fertilizing services at Bear Group LLC are designed to provide your green spaces with the nutrients they need to thrive, resulting in lush, green lawns and vibrant, blooming plants. With our expertise in selecting the right fertilizers and applying them at optimal times, we ensure that your property receives the nourishment it needs to flourish throughout the year, enhancing its overall appeal and value. Trust Bear Group LLC to keep your outdoor spaces looking their best with our professional fertilizing services.</p>
+              <p>Fertilizing is a crucial aspect of property maintenance, essential for promoting healthy growth and vibrant appearance in lawns, gardens, and landscaping. Our fertilizing services at Blue Village Property Services LLC are designed to provide your green spaces with the nutrients they need to thrive, resulting in lush, green lawns and vibrant, blooming plants. With our expertise in selecting the right fertilizers and applying them at optimal times, we ensure that your property receives the nourishment it needs to flourish throughout the year, enhancing its overall appeal and value. Trust Blue Village Property Services LLC to keep your outdoor spaces looking their best with our professional fertilizing services.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
         </div>
@@ -53,7 +53,7 @@ export default function LandscapingServices() {
           <div className={styles.content}>
               <h2>Lawn Installation & Restoration</h2>
 
-              <p>At Bear Group LLC, we specialize in Lawn Installation & Restoration services designed to transform your outdoor space into a lush and inviting landscape. Whether you're starting from scratch or rejuvenating an existing lawn, our expert team will work with you to create a customized plan tailored to your property's specific needs. From soil preparation and seed selection to irrigation system installation and ongoing maintenance, we handle every aspect of the process with precision and care. With our dedication to quality and attention to detail, you can trust Bear Group LLC to deliver exceptional results that enhance the beauty and value of your property for years to come.</p>
+              <p>At Blue Village Property Services LLC, we specialize in Lawn Installation & Restoration services designed to transform your outdoor space into a lush and inviting landscape. Whether you're starting from scratch or rejuvenating an existing lawn, our expert team will work with you to create a customized plan tailored to your property's specific needs. From soil preparation and seed selection to irrigation system installation and ongoing maintenance, we handle every aspect of the process with precision and care. With our dedication to quality and attention to detail, you can trust Blue Village Property Services LLC to deliver exceptional results that enhance the beauty and value of your property for years to come.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
         </div>
@@ -66,7 +66,7 @@ export default function LandscapingServices() {
           <div className={styles.content}>
               <h2>Hedge Trimming</h2>
 
-              <p>Our hedge trimming service at Bear Group LLC is designed to keep your property looking neat, tidy, and well-manicured. Our team of skilled professionals utilizes the latest tools and techniques to trim hedges to perfection, enhancing the overall aesthetic appeal of your outdoor space. Whether you have unruly bushes that need shaping or intricate topiaries that require precision trimming, we have the expertise to handle any hedge trimming job with efficiency and care. With our meticulous attention to detail, you can trust us to deliver exceptional results that exceed your expectations, leaving your property looking pristine and inviting.</p>
+              <p>Our hedge trimming service at Blue Village Property Services LLC is designed to keep your property looking neat, tidy, and well-manicured. Our team of skilled professionals utilizes the latest tools and techniques to trim hedges to perfection, enhancing the overall aesthetic appeal of your outdoor space. Whether you have unruly bushes that need shaping or intricate topiaries that require precision trimming, we have the expertise to handle any hedge trimming job with efficiency and care. With our meticulous attention to detail, you can trust us to deliver exceptional results that exceed your expectations, leaving your property looking pristine and inviting.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
         </div>
@@ -92,7 +92,7 @@ export default function LandscapingServices() {
           <div className={styles.content}>
               <h2>Insect Control</h2>
 
-              <p>Insect control services offered by Bear Group LLC are designed to safeguard your property against unwanted pests and insects. Our skilled technicians employ effective strategies to identify, treat, and prevent infestations, ensuring your home remains a safe and comfortable environment. From routine inspections to targeted treatments, we tailor our insect control services to meet the unique needs of your property, providing you with peace of mind and protection against common pests such as ants, roaches, spiders, and more. With Bear Group LLC, you can trust that your property will be free from invasive insects, allowing you to enjoy a pest-free living space year-round.</p>
+              <p>Insect control services offered by Blue Village Property Services LLC are designed to safeguard your property against unwanted pests and insects. Our skilled technicians employ effective strategies to identify, treat, and prevent infestations, ensuring your home remains a safe and comfortable environment. From routine inspections to targeted treatments, we tailor our insect control services to meet the unique needs of your property, providing you with peace of mind and protection against common pests such as ants, roaches, spiders, and more. With Blue Village Property Services LLC, you can trust that your property will be free from invasive insects, allowing you to enjoy a pest-free living space year-round.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
         </div>
@@ -105,7 +105,7 @@ export default function LandscapingServices() {
           <div className={styles.content}>
               <h2>Weed Control</h2>
 
-              <p>Our Weed Control services at Bear Group LLC encompass both yard and driveway maintenance, ensuring your property maintains its pristine appearance. With specialized techniques and environmentally friendly solutions, we effectively eliminate unsightly weeds that can detract from the beauty of your outdoor spaces. Whether it's reclaiming your yard from invasive plants or keeping your driveway weed-free, our expert team tackles weed control with precision and care, leaving your property looking neat and well-maintained.</p>
+              <p>Our Weed Control services at Blue Village Property Services LLC encompass both yard and driveway maintenance, ensuring your property maintains its pristine appearance. With specialized techniques and environmentally friendly solutions, we effectively eliminate unsightly weeds that can detract from the beauty of your outdoor spaces. Whether it's reclaiming your yard from invasive plants or keeping your driveway weed-free, our expert team tackles weed control with precision and care, leaving your property looking neat and well-maintained.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
         </div>
