@@ -487,9 +487,9 @@
     .topBarLinks a{
         border: none !important;
     }
-    .topBarLinks a:nth-child(1){
+    /* .topBarLinks a:nth-child(1){
         display: none;
-    }
+    } */
     /* .topBarLinks a:nth-child(2){
         display: none;
     } */
