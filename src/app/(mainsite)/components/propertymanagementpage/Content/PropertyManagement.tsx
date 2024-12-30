@@ -6,7 +6,7 @@ export default function PropertyManagement() {
   return (
     <section className={styles.section}>
 
-        <div className={styles.itemWrapper}>
+        {/* <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
           <img className={styles.img} src="/img/services/screening.webp" width={360} height={600} aria-hidden />
           </div>
@@ -18,7 +18,7 @@ export default function PropertyManagement() {
               </p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
-        </div>
+        </div> */}
 
         {/* <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>

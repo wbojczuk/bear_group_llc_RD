@@ -196,6 +196,10 @@ export default function Navbar() {
          title="Services"
          links={[
           {
+            url: "/pest-control",
+            title: "Pest Control"
+          },
+          {
             url: "/property-services",
             title: "Property Services"
           },

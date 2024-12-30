@@ -1,7 +1,7 @@
 const serviceAreaData: string[] = [
     "Middlesex, CT",
-    "Hartford, CT",
     "New London, CT",
+    "Kent County, RI",
     "Washington, RI",
 ]
 

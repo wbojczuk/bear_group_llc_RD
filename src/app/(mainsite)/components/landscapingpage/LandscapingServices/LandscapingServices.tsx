@@ -71,31 +71,7 @@ export default function LandscapingServices() {
           </div>
         </div>
 
-        <div className={styles.itemWrapper}>
-          <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/tick.webp" width={360} height={600} aria-hidden />
-          </div>
-
-          <div className={styles.content}>
-              <h2>Mosquito & Tick Service</h2>
-
-              <p>Our Mosquito & Tick Service is designed to protect your outdoor space from these pesky and potentially harmful pests. With our effective treatments, we target areas where mosquitoes and ticks breed and thrive, significantly reducing their populations. Whether you're enjoying a backyard barbecue or relaxing in your garden, our service provides peace of mind, allowing you to fully enjoy your outdoor living spaces without the nuisance or worry of bites and potential diseases transmitted by these insects. Trust us to safeguard your outdoor environment, so you can make the most of your time outdoors, worry-free.</p>
-              <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
-          </div>
-        </div>
-
-        <div className={styles.itemWrapper}>
-          <div className={styles.imgWrapper}>
-          <img className={styles.img} src="/img/services/insect.webp" width={360} height={600} aria-hidden />
-          </div>
-
-          <div className={styles.content}>
-              <h2>Insect Control</h2>
-
-              <p>Insect control services offered by Blue Village Property Services LLC are designed to safeguard your property against unwanted pests and insects. Our skilled technicians employ effective strategies to identify, treat, and prevent infestations, ensuring your home remains a safe and comfortable environment. From routine inspections to targeted treatments, we tailor our insect control services to meet the unique needs of your property, providing you with peace of mind and protection against common pests such as ants, roaches, spiders, and more. With Blue Village Property Services LLC, you can trust that your property will be free from invasive insects, allowing you to enjoy a pest-free living space year-round.</p>
-              <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
-          </div>
-        </div>
+        {/*  */}
 
         <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>

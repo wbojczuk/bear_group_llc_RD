@@ -14,9 +14,7 @@ export default function PropertyPreservation() {
           <div className={styles.content}>
               <h2>Foreclosure Services</h2>
 
-              <p>Our Foreclosure Services are designed to support property owners and financial institutions throughout the foreclosure process. We handle everything from securing and maintaining foreclosed properties to preparing them for sale. This includes property inspections, repairs, cleaning, and landscaping to ensure the property remains in good condition and market-ready.
-
-Additionally, we manage the legal and administrative aspects of foreclosure, working closely with banks and real estate agents to streamline the process. Our goal is to minimize the impact of foreclosure on the community and maximize the property's value for a quick and efficient sale.</p>
+              <p>Our Foreclosure Services are designed to support property owners and financial institutions throughout the foreclosure process. We handle everything from securing and maintaining foreclosed properties to preparing them for sale. This includes property inspections, repairs, cleaning, and landscaping to ensure the property remains in good condition and market-ready.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
         </div>
@@ -70,7 +68,7 @@ Our team uses high-quality locks and the latest techniques to ensure your new lo
           <div className={styles.content}>
               <h2>Handyman Services</h2>
 
-              <p>Our handyman services at Blue Village Property Services LLC are your go-to solution for all those odd jobs and small repairs around your property. Whether it's fixing a leaky faucet, patching up drywall, or assembling furniture, our skilled handymen are here to tackle any task efficiently and effectively. With attention to detail and a commitment to quality craftsmanship, we ensure that every job is completed to your satisfaction, leaving your home looking its best and functioning smoothly. Trust Blue Village Property Services LLC for reliable and professional handyman services that make property maintenance hassle-free.</p>
+              <p>Our handyman services at Blue Village Property Services LLC are your go-to solution for all those odd jobs and small repairs around your property. Whether it's fixing a leaky faucet, or patching up drywall, our skilled handymen are here to tackle any task efficiently and effectively. With attention to detail and a commitment to quality craftsmanship, we ensure that every job is completed to your satisfaction, leaving your home looking its best and functioning smoothly. Trust Blue Village Property Services LLC for reliable and professional handyman services that make property maintenance hassle-free.</p>
               <Link className='main-link main-link-outline' href='/contact'>Contact Us</Link>
           </div>
         </div>
