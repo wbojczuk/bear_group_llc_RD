@@ -6,8 +6,6 @@ export default function PestControl() {
   return (
     <section className={styles.section}>
 
-      <h3>We offer free inspections and estimates to identify and address any pest issues quickly and effectively. Our certified technicians use safe, reliable methods to eliminate pests and prevent their return. As a licensed and insured company, we prioritize your safety and satisfaction, providing top-quality service you can trust. Let us help you take back control of your space!</h3>
-
 <div className={styles.itemWrapper}>
           <div className={styles.imgWrapper}>
           <img className={styles.img} src="/img/services/tick.webp" width={360} height={600} aria-hidden />
