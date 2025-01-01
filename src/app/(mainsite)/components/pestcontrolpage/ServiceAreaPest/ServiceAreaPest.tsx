@@ -7,7 +7,7 @@ return (
     <div className={styles.textWrapper}>
         <h2>
             <span className="underline">Serving All of</span> <br />
-            <span className="underline">Rode Island, </span> <br />
+            <span className="underline">Rode Island</span> <br />
             <span className="underline">and Connecticut</span>
         </h2>
         <Link className='main-link' href={`tel:${process.env.NEXT_PUBLIC_PHONE_NUM}`}>Call Now</Link>
