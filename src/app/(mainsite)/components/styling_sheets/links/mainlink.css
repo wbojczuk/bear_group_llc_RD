@@ -13,6 +13,11 @@
   border: none;
 }
 
+.main-link-light{
+  background-color: transparent;
+  border: 2px solid white;
+}
+
 .main-link::after{
   content: '';
   display: inline-block;

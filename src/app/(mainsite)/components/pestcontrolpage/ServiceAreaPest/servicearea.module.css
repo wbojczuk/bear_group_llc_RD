@@ -2,6 +2,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+    gap: 4vw;
     position: relative;
     padding: var(--section-padding-top) 10%;
     background: var(--gradient-right);
@@ -23,11 +25,17 @@
 
 .mapWrapper{
     width: 45%;
+    aspect-ratio: 1.2/1;
+    overflow: hidden;
+    position: relative;
 }
 
 .mapWrapper iframe{
     width: 100%;
-    aspect-ratio: 1.2/1;
+    height: 110%;
+    position: absolute;
+    top: -10%;
+    left: 0;
     border-radius: 10px;
 }
 
@@ -58,11 +66,13 @@
     }
     
     .mapWrapper{
-        width: 50%;
+        width: 70%;
+        aspect-ratio: 1.2/1;
     }
     
     .mapWrapper iframe{
-        aspect-ratio: 1.2/1;
+        height: 115%;
+        top: -15%;
     }
 }
 
@@ -71,7 +81,6 @@
     .serviceArea{
         padding: var(--section-padding-top) 5%;
         background: var(--gradient-right);
-        flex-direction: column-reverse;
         gap: 5vw;
     }
     
@@ -89,10 +98,11 @@
     }
     
     .mapWrapper{
-        width: 80%;
+        width: 90%;
     }
     
     .mapWrapper iframe{
-        aspect-ratio: 1.2/1;
+        height: 118%;
+        top: -18%;
     }
 }
