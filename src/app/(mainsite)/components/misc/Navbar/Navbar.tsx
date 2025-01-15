@@ -199,10 +199,10 @@ export default function Navbar() {
             url: "/pest-control",
             title: "Pest Control"
           },
-          {
-            url: "/property-services",
-            title: "Property Services"
-          },
+          // {
+          //   url: "/property-services",
+          //   title: "Property Services"
+          // },
           // {
           //   url: "/cleaning-services",
           //   title: "Cleaning Services"
